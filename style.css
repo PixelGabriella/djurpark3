@@ -1,0 +1,125 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #85ad76;
+  color: #333;
+  margin: 20px;
+}
+
+h1, h2, p {
+  color: #2c6320;
+  text-align: center;
+}
+
+/*img {
+  display: block;
+  margin: 10px auto;
+  border-radius: 10px;
+  border: 3px solid #99003d;
+}*/
+
+input, select, textarea, button {
+  width: 100%;
+  padding: 6px;
+  font-size: 1em;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: bisque;
+}
+.vanster {
+  background-color: white;
+  width: 50%;
+  float: left;
+  height: 400px;
+}
+.vanster2 {
+  background-color: white;
+  width: 50%;
+  float: left;
+  height: 500px;
+}
+.fagelbild{
+    height: 500px;
+    width: 100%;
+}
+.asnabild {
+    height: 500px;
+    width: 100%;
+}
+.hoger {
+  background-color: white;
+  width: 50%;
+  float: right;
+  height: 400px;
+}
+.hoger2 {
+  background-color: white;
+  width: 50%;
+  float: right;
+  height: 500px;
+}
+.header {
+  background-color: rgb(86, 135, 86);
+  height: 100px;
+  background-size: 100%;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.body {
+  background-color: lightyellow;
+  height: 75px;
+  padding: 20px;
+  color: black;
+  font-size: 16px;
+  text-align: center;
+}
+.bild{
+  border: 3px solid white;
+}
+.menu {
+  background-color: rgb(179, 228, 179);
+  height: 50px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  color: rgb(71, 23, 11);
+}
+.ptext {
+  padding: 10px;
+  text-align: justify;
+  margin: 40px;
+}
+.ptext2 {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 10px;
+  text-align: left;
+}
+.footer{
+    background-color: white;
+    text-align: center;
+}
+.footerimg{
+    width: 100%;
+    height: 100px;
+} 
+.table1{
+    margin: 0 auto;
+    width: 200px;
+}
+.table2{
+    text-align: justify;
+    width: 100%;
+}
+
+
+/*.bredd{
+    margin: 0 auto;
+    border: 3px solid red;
+}*/
